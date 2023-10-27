@@ -84,4 +84,8 @@ function countryselect(ucountry) {
     return true; 
     }
     }
+
+function feature1(){
+    alert ("something")
+}
     
